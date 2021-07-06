@@ -3,7 +3,7 @@
 }
 
 .iconServices__icons {
-   opacity: 0.6;
+   filter: opacity(60%);
    cursor: pointer;
    filter: grayscale(100%) !important;
    max-width: 116px !important;
@@ -12,7 +12,7 @@
 
 .iconServices__icons:hover {
    filter: none !important;
-   opacity: 100%;
+   filter: opacity(100%);
 }
 
 @media (max-width: 992px) {
