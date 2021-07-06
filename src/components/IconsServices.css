@@ -3,9 +3,8 @@
 }
 
 .iconServices__icons {
-   filter: opacity(60%);
    cursor: pointer;
-   filter: grayscale(100%) !important;
+   filter: opacity(60%) grayscale(100%) !important;
    max-width: 116px !important;
    object-fit: contain !important;
 }
