@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ngrok_clone/static/css/main.b9cb7cee.chunk.css",
+    "main.js": "/ngrok_clone/static/js/main.b1d8afcf.chunk.js",
+    "main.js.map": "/ngrok_clone/static/js/main.b1d8afcf.chunk.js.map",
+    "runtime-main.js": "/ngrok_clone/static/js/runtime-main.11362068.js",
+    "runtime-main.js.map": "/ngrok_clone/static/js/runtime-main.11362068.js.map",
+    "static/js/2.9c2cd87e.chunk.js": "/ngrok_clone/static/js/2.9c2cd87e.chunk.js",
+    "static/js/2.9c2cd87e.chunk.js.map": "/ngrok_clone/static/js/2.9c2cd87e.chunk.js.map",
+    "index.html": "/ngrok_clone/index.html",
+    "static/css/main.b9cb7cee.chunk.css.map": "/ngrok_clone/static/css/main.b9cb7cee.chunk.css.map",
+    "static/js/2.9c2cd87e.chunk.js.LICENSE.txt": "/ngrok_clone/static/js/2.9c2cd87e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ngrok_clone/static/media/EuclidSquare-Regular.72068a47.woff2",
+    "static/media/atlassian-logo.5748199c.svg": "/ngrok_clone/static/media/atlassian-logo.5748199c.svg",
+    "static/media/banner-image.d49d6147.svg": "/ngrok_clone/static/media/banner-image.d49d6147.svg",
+    "static/media/github-logo.9e08e32d.svg": "/ngrok_clone/static/media/github-logo.9e08e32d.svg",
+    "static/media/ngrok-black.16011fc3.svg": "/ngrok_clone/static/media/ngrok-black.16011fc3.svg",
+    "static/media/ngrok-product-2-p-1080.b86bfb63.svg": "/ngrok_clone/static/media/ngrok-product-2-p-1080.b86bfb63.svg",
+    "static/media/sendgrid-logo.9751e383.svg": "/ngrok_clone/static/media/sendgrid-logo.9751e383.svg",
+    "static/media/slack-logo.87b10a0c.svg": "/ngrok_clone/static/media/slack-logo.87b10a0c.svg",
+    "static/media/twilio-logo.b037bfc8.svg": "/ngrok_clone/static/media/twilio-logo.b037bfc8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11362068.js",
+    "static/js/2.9c2cd87e.chunk.js",
+    "static/css/main.b9cb7cee.chunk.css",
+    "static/js/main.b1d8afcf.chunk.js"
+  ]
+}
