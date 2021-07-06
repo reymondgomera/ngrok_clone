@@ -1,0 +1,22 @@
+.iconServices {
+   margin: 150px auto 75px auto !important;
+}
+
+.iconServices__icons {
+   opacity: 0.6;
+   cursor: pointer;
+   filter: grayscale(100%) !important;
+   max-width: 116px !important;
+   object-fit: contain !important;
+}
+
+.iconServices__icons:hover {
+   filter: none !important;
+   opacity: 100%;
+}
+
+@media (max-width: 992px) {
+   .iconServices {
+      margin: 50px auto 75px auto !important;
+   }
+}

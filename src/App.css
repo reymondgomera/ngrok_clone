@@ -1,38 +1,70 @@
-.App {
-  text-align: center;
+@font-face {
+   font-family: 'EuclidSquare-Regular';
+   src: url('./font/EuclidSquare-Regular.woff2');
+   font-weight: normal;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+* {
+   font-family: 'EuclidSquare-Regular' !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.app {
+   --primary: #02238f;
+   --secondary: #1f1e37;
+   --dark: #151429;
+   --pink: #fa8080;
+   --violet: #3d3683;
+   --yellow: #ffdb62;
+   --light-gray: #f0f4f6;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.bg-primary {
+   color: var(--light-gray) !important;
+   background-color: var(--primary) !important;
+}
+.bg-secondary {
+   color: var(--light-gray) !important;
+   background-color: var(--secondary) !important;
 }
 
-.App-link {
-  color: #61dafb;
+.btn-primary {
+   color: var(--light-gray);
+   background-color: var(--primary) !important;
+}
+.btn-primary:hover {
+   transition: all 0.3s ease-out !important;
+   background-color: var(--primary) !important;
+   filter: brightness(120%);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.btn-outline-secondary {
+   color: #fff !important;
+   background-color: var(--secondary) !important;
+   border: solid 2px #fff !important;
+}
+.btn-outline-secondary:hover {
+   color: var(--dark) !important;
+   transition: all 0.3s ease-out !important;
+   background-color: #fff !important;
+}
+
+.btn-outline-dark {
+   color: var(--dark) !important;
+   border: solid 2px var(--dark) !important;
+}
+.btn-outline-dark:hover {
+   color: #fff !important;
+   transition: all 0.3s ease-out !important;
+   background-color: var(--dark) !important;
+}
+
+.text--highlighted {
+   border-bottom: solid 2px var(--yellow) !important;
+}
+.text--highlighted:hover {
+   border-bottom: solid 4px var(--yellow) !important;
+}
+
+.opacity__70 {
+   opacity: 70%;
 }

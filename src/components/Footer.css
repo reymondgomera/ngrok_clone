@@ -1,0 +1,33 @@
+.footer__navLinks {
+   padding: 3px !important;
+   border: none !important;
+}
+
+.footer__navLinks a {
+   text-decoration: none;
+   font-size: 16px !important;
+   color: inherit !important;
+}
+
+.footer__copyright {
+   font-weight: bold;
+   font-size: 12px;
+}
+
+.footer__logo {
+   filter: invert();
+}
+
+.footer__fixedButton {
+   padding: 16px;
+   margin: 20px;
+   width: 200px;
+   cursor: pointer;
+   border-radius: 16px;
+   background-color: var(--violet) !important;
+}
+
+.footer__fixedButton a {
+   color: #fff;
+   text-decoration: none;
+}

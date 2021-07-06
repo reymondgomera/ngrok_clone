@@ -1,0 +1,4 @@
+.card--bgColor {
+   border: none !important;
+   background-color: var(--light-gray) !important;
+}

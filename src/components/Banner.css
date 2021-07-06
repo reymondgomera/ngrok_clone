@@ -1,0 +1,11 @@
+.banner__typingText > p {
+   height: 120px;
+   text-decoration: underline !important;
+   text-decoration-color: var(--pink) !important;
+}
+
+@media (min-width: 992px) {
+   .banner_left {
+      width: 50%;
+   }
+}
