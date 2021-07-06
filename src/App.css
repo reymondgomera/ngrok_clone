@@ -66,5 +66,5 @@
 }
 
 .opacity__70 {
-   opacity: 70% !important;
+   filter: opacity(70%) !important;
 }
