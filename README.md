@@ -6,8 +6,6 @@ Live Preview Link: [https://reymondgomera.github.io/ngrok_clone](https://reymond
 
 This Ngrok clone project is just for **practice purposes** only
 
-<br/>
-
 <img src="https://i.ibb.co/0KWBMwF/image.png" alt="image" border="0">
 <img src="https://i.ibb.co/YNcg67d/image.png" alt="image" border="0">
 
